@@ -107,3 +107,4 @@ document.addEventListener('mousemove', (e) => {
     }, 1000);
 
   }, 3000); // זמן לפני שהכל מתאחד
+
